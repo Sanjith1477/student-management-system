@@ -1,0 +1,5 @@
+admin,admin123,ADMIN
+teacher01,teacher123,TEACHER
+teacher02,teacher123,TEACHER
+student01,student123,STUDENT
+353,ABCdef123\][,STUDENT

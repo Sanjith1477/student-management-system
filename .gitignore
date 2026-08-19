@@ -1,0 +1,20 @@
+# Compiled class files
+bin/
+*.class
+
+# Helper files generated during manual compilation
+sources.txt
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+out/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db

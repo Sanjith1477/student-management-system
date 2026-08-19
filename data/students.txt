@@ -1,0 +1,2 @@
+1001,John Doe,IT,2,A,john@gmail.com,9876543210,student01
+24I353,SAM,IT,2024,G2,24i353@gmail.com,1234567890,353

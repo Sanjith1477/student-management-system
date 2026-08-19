@@ -1,0 +1,2 @@
+2001,Mr Kumar,IT,kumar@gmail.com,9876543211,teacher01
+2002,Mrs Priya,IT,priya@gmail.com,9876543213,teacher02
