@@ -1,4 +1,4 @@
-# EduTrack \u2013 Student Management System (Modernized)
+# EduTrack Management System 
 
 A polished, modern rebuild of the original Java Swing Student Management System.
 Same layered architecture, same plain-text storage, no new frameworks \u2014 just a
